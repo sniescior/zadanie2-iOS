@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  zad2
+
+  Created by Szymon N on 07/12/2022.
+  
+*/
+
+// klucz - wartość
+
+"Information"="Information";
+"The faculty is running %i programs on graduate and undergraduate level."=" The faculty is running %i programs on graduate and undergraduate level.";
