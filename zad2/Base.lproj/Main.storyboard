@@ -34,6 +34,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="image" destination="jc6-qV-PqI" id="Rlg-bk-7NQ"/>
                         <outlet property="informationButton" destination="A1v-bQ-GfN" id="7Xl-Rg-al0"/>
                     </connections>
                 </viewController>
